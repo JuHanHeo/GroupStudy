@@ -7,7 +7,6 @@ public class OperatePoly {
 		
 		int aDegree = a.getDegree();
 		int bDegree = b.getDegree();
-		int maxDegree = result.length;
 		int apoint = 0;
 		int bpoint = 0;
 		int rpoint = 0;
